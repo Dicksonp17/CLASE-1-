@@ -1,2 +1,2 @@
-# CLASE-1-
-MI PRIMER REPOSITORIO
+# EGG---
+Ejercicios Desarrollador Full Stack 
